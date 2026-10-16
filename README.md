@@ -2,8 +2,6 @@
 
 ### A German student who is interested in computer science and technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=friedrichOsDev&label=Profile views&color=0e75b6&style=flat" alt="friedrichOsDev" /> </p>
-
 - 🔭 I'm currently working on **my own operating system, which is called NanoOS.**
 
 - 🌱 I'm currently learning **C++**
