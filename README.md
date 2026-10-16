@@ -27,7 +27,7 @@
 <a href="https://python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=friedrichOsDev&show_icons=true&locale=en&layout=compact" alt="friedrichOsDev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=friedrichOsDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="friedrichOsDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friedrichOsDev&show_icons=true&locale=en" alt="friedrichOsDev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friedrichOsDev&show_icons=true&locale=en&theme=dark" alt="friedrichOsDev" /></p>
 
